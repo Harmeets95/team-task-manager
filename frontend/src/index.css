@@ -1,0 +1,7 @@
+/* frontend/src/index.css */
+@import "tailwindcss";
+
+/* Add a smooth background color for our whole app */
+body {
+  background-color: #f3f4f6;
+}
