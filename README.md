@@ -27,7 +27,11 @@ A professional, production-ready Task Management application with Role-Based Acc
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started and for admin use 
+use this mail for login
+
+#######________mail- you@gmail.com
+#######________pass-  you@123
 
 ### 1. Prerequisites
 * Node.js installed.
@@ -41,3 +45,6 @@ A professional, production-ready Task Management application with Role-Based Acc
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_random_secret_key
+
+
+
